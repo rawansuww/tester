@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-resume/static/css/main.a617e044.chunk.css",
-    "main.js": "/react-resume/static/js/main.38625424.chunk.js",
-    "main.js.map": "/react-resume/static/js/main.38625424.chunk.js.map",
-    "runtime-main.js": "/react-resume/static/js/runtime-main.827b8fb7.js",
-    "runtime-main.js.map": "/react-resume/static/js/runtime-main.827b8fb7.js.map",
-    "static/js/2.56975fa0.chunk.js": "/react-resume/static/js/2.56975fa0.chunk.js",
-    "static/js/2.56975fa0.chunk.js.map": "/react-resume/static/js/2.56975fa0.chunk.js.map",
-    "static/js/3.e7ca6566.chunk.js": "/react-resume/static/js/3.e7ca6566.chunk.js",
-    "static/js/3.e7ca6566.chunk.js.map": "/react-resume/static/js/3.e7ca6566.chunk.js.map",
-    "index.html": "/react-resume/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/react-resume/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.56975fa0.chunk.js.LICENSE.txt": "/react-resume/static/js/2.56975fa0.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-resume/static/media/logo.6ce24c58.svg"
+    "main.css": "/rawansuww.github.io/static/css/main.a617e044.chunk.css",
+    "main.js": "/rawansuww.github.io/static/js/main.38625424.chunk.js",
+    "main.js.map": "/rawansuww.github.io/static/js/main.38625424.chunk.js.map",
+    "runtime-main.js": "/rawansuww.github.io/static/js/runtime-main.aa9e696c.js",
+    "runtime-main.js.map": "/rawansuww.github.io/static/js/runtime-main.aa9e696c.js.map",
+    "static/js/2.56975fa0.chunk.js": "/rawansuww.github.io/static/js/2.56975fa0.chunk.js",
+    "static/js/2.56975fa0.chunk.js.map": "/rawansuww.github.io/static/js/2.56975fa0.chunk.js.map",
+    "static/js/3.e7ca6566.chunk.js": "/rawansuww.github.io/static/js/3.e7ca6566.chunk.js",
+    "static/js/3.e7ca6566.chunk.js.map": "/rawansuww.github.io/static/js/3.e7ca6566.chunk.js.map",
+    "index.html": "/rawansuww.github.io/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/rawansuww.github.io/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.56975fa0.chunk.js.LICENSE.txt": "/rawansuww.github.io/static/js/2.56975fa0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rawansuww.github.io/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.827b8fb7.js",
+    "static/js/runtime-main.aa9e696c.js",
     "static/js/2.56975fa0.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.38625424.chunk.js"
